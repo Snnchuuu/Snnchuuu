@@ -57,5 +57,5 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-
 
 ---
 
-    <p align="center">
-      <i>"Building solid engineering foundations step by step."</i> ⚙️💻
+<p align="center">
+<i>"Building solid engineering foundations step by step."</i> ⚙️💻
