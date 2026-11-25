@@ -1,16 +1,15 @@
-  <h1 align="center">
+<h1 align="center">
       <img
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sinan+G%C3%BCn+%F0%9F%91%8B;Computer+Engineering+Student+%F0%9F%92%BB;Deep+Learning+%26+Computer+Vision+%F0%9F%A4%96;Computer+Archi
       tecture+%26+Systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
     </h1>
 
     <p align="center">
-      Computer Engineering student focused on <b>Computer Vision</b>, <b>Deep Learning</b>, and <b>Computer Architecture</b>.
+      Computer Engineering student focused on <b>Computer Vision</b>, <b>Deep Learning</b>, and <b>Computer Architecture</b>.<br/>
       Interested in mathematical foundations, embedded systems, and building intelligent software from hardware to application layer.
     </p>
 
     <p align="center">
-      <img src="https://img.shields.io/badge/Status-PRO_Developer-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Focus-AI_%26_Systems-00D26A?style=for-the-badge" />
       <img src="https://img.shields.io/badge/Location-Ankara%2C_TR-FCD34D?style=for-the-badge&logoColor=black" />
     </p>
@@ -61,4 +60,3 @@
 
     <p align="center">
       <i>"Building solid engineering foundations step by step."</i> ⚙️💻
-    </p>
