@@ -23,8 +23,6 @@
 
    ---
 
- ### 🛠️ Tech Stack & Tooling
-
 <div align="center">
 
 | Area | Technologies & Tools |
@@ -40,8 +38,7 @@
 Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **Frameworks & UI** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white) |
 
- </div>
-
+</div>
  ---
 
 ### 📊 GitHub Statistics
@@ -58,4 +55,4 @@ Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-
 ---
 
 <p align="center">
-<i>"Building solid engineering foundations step by step."</i> ⚙️💻
+<i>"Building solid engineering foundations step by step."</i> ⚙️💻</p>
