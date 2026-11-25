@@ -37,15 +37,19 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
 
 | 📈 Activity & Stats | 💻 Top Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=Snnchuuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snnchuuu&layout=compact&theme=tokyonight&hide_border=true" height="175" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Snnchuuu&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true" height="185" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snnchuuu&layout=donut&theme=tokyonight&hide_border=true" height="185" /> |
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Snnchuuu&theme=tokyo-night&hide_border=true&area=true" width="98%" />
+</p>
 
 ---
 
